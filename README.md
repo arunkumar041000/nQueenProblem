@@ -1,5 +1,5 @@
-# n Queen Problem
-n Queen Problem in oops
+# N Queen Problem
+- N Queen Problem in oops
 
 
 ## Time Complexity: O(N!)
