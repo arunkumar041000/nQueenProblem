@@ -1,2 +1,2 @@
 # n Queen Problem
-n Queen Problem in oop
+n Queen Problem in oops
