@@ -2,8 +2,8 @@
 n Queen Problem in oops
 
 
-# Time Complexity: O(N!)
-# Auxiliary Space: O(N2)
+## Time Complexity: O(N!)
+## Auxiliary Space: O(N2)
 
 Optimization in is_safe() function 
 The idea is not to check every element in right and left diagonal, instead use the property of diagonals: 
