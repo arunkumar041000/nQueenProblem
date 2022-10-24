@@ -1,2 +1,2 @@
-# nQueenProblem
-n Queen Problem in python
+# n Queen Problem
+n Queen Problem in oop
