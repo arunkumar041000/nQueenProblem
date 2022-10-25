@@ -69,7 +69,7 @@ class NQueen:
 
 
 if __name__ == "__main__":
-    N = 6
+    N = 8
     if (len(sys.argv) > 1):
         N = int(sys.argv[1])
     NQueen(N)
